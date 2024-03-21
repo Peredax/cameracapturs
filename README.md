@@ -1,2 +1,1 @@
-# cameracapturs
-Project of the course Advanced Operating Systems
+This Python code is designed to capture images from the camera, allowing the user to choose the number of captures, resolution, and time interval. It is all set up to prevent the entry of letters or negative numbers, and if the user attempts to do so, a specific message will appear, guiding them on what needs to be entered. The program includes comments explaining the function of each part.
